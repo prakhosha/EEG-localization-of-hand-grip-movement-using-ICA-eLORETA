@@ -2,11 +2,11 @@
 
 This project is my undergraduate thesis with a full title:
 
-"STUDI PENCITRAAN 3D BROADMANN AREA BERBASIS SINYAL EEG UNTUK AKTIVITAS TANGAN MENGGENGGAM DENGAN METODE ICA-eLORETA"
+"Studi Pencitraan 3D Broadmann Area Berbasis Sinyal EEG untuk Aktivitas Tangan Menggenggam dengan Metode ICA-eLORETA"
 
 or if translated to english:
 
-"STUDY ON 3D IMAGING OF BROADMANN AREA FOR HAND GRIPPING ACTIVITY BASED ON EEG SIGNAL USING ICA-eLORETA"
+"Study on 3D Imaging of Broadmann Area for Hand Gripping Activity Based on EEG Signal using ICA-eLORETA"
 
 The work is done in Bahasa Indonesia. However, there is an english translation of the abstract which can be read below:
 
