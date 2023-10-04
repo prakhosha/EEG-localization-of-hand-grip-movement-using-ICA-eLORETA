@@ -8,6 +8,8 @@ or if translated to english:
 
 "Study on 3D Imaging of Broadmann Area for Hand Gripping Activity Based on EEG Signal using ICA-eLORETA"
 
+The full work can be found [here](https://github.com/prakhosha/EEG-localization-of-hand-grip-movement-using-ICA-eLORETA/blob/main/Laporan%20Tugas%20Akhir.pdf)
+
 The work is done in Bahasa Indonesia. However, there is an english translation of the abstract which can be read below:
 
 # Abstract
