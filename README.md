@@ -1,4 +1,5 @@
-# EEG-localization-of-hand-grip-movement-using-ICA-eLORETA
+
+## EEG-localization-of-hand-grip-movement-using-ICA-eLORETA
 
 This project is my undergraduate thesis with a full title:
 
@@ -10,7 +11,7 @@ or if translated to english:
 
 The work is done in Bahasa Indonesia. However, there is an english translation of the abstract which can be read below:
 
-# Abstract
+## Abstract
 
 Stroke rehabilitation is a method that can be taken by stroke patients to restore their motoric ability. During stroke rehabilitation, direct feedback from the patient’s brain is needed to know how the patient recovered over time. To obtain direct feedback from the patient’s brain, some measurement instruments can be used.
 
