@@ -1,4 +1,5 @@
 ---
+layout: post
 title: EEG localization of hand grip movement using ICA-eLORETA
 permalink: /
 ---
