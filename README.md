@@ -1,6 +1,6 @@
-# EEG Localization of Hand Grip Movement using ICA-eLORETA
-
 **Undergraduate thesis**
+
+# EEG Localization of Hand Grip Movement using ICA-eLORETA
 
 *Posted on: October 2020*
 
