@@ -1,7 +1,9 @@
----
-layout: post
-title: EEG localization of hand grip movement using ICA-eLORETA
-permalink: /
+# EEG localization of hand grip movement using ICA-eLORETA
+
+**Undergraduate thesis**
+
+*Posted on: October 2020*
+
 ---
 
 This project is my undergraduate thesis with a full title:
