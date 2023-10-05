@@ -1,6 +1,6 @@
 title: Journal
-url: https://prakhosha.github.io/
-# baseurl
+url: https://prakhosha.github.io
+baseurl: /
 # theme: minima
 
 author:
