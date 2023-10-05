@@ -3,9 +3,8 @@ url: https://prakhosha.github.io
 baseurl: /
 # theme: minima
 
-author:
-  name: Angga Bayu Prakhosha
-  email: anggaprakhosha@gmail.com
+author: Angga Bayu Prakhosha
+email: anggaprakhosha@gmail.com
 
 kramdown:
   math_engine: mathjax
